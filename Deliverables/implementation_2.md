@@ -35,6 +35,8 @@ For the process of designing we use the Bridge design pattern on each end of the
 We split up into two teams and work on each part until we were able to slowly connect them through python.
 Frontend Team was task to build a frontend that look appeal to the user, by collaborating and using html and css 
 The backend did research and development with the API and python. We use the abstract design pattern to created and finish most of the coding,  
+
 Frontend Team: Justin Ceccarelli, Jason Gaglione, Linh Nguyen
+
 Backend Team: Jabril Gray, Brandon Warman, Michael Nelson, Jack Decker, Linh Nguyen
 
