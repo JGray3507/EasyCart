@@ -25,3 +25,16 @@ Implemented Brandon Warman
 Approved by: Brandon Warman  
 Spoonacular API: Implemented code that allows the user to search for recipes using the Spoonacular api.  
 
+
+
+## 4. Code quality
+We try to through the same coding conventions the project 
+The python code we use Pep format so everyone was one the same  
+This the website we base it off of https://www.python.org/dev/peps/pep-0008/
+For the process of designing we use the Bridge design pattern on each end of the codes was abstract ideas of the frontend and backend,.
+We split up into two teams and work on each part until we were able to slowly connect them through python.
+Frontend Team was task to build a frontend that look appeal to the user, by collaborating and using html and css 
+The backend did research and development with the API and python. We use the abstract design pattern to created and finish most of the coding,  
+Frontend Team: Justin Ceccarelli, Jason Gaglione, Linh Nguyen
+Backend Team: Jabril Gray, Brandon Warman, Michael Nelson, Jack Decker, Linh Nguyen
+
